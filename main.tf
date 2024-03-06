@@ -44,6 +44,6 @@ variable "secret_key" { }
 
 variable "region_name" {
 
-default = "us-east-1"
+default = "ap-south-1"
 
 }
